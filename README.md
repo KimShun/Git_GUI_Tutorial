@@ -8,5 +8,9 @@
 - Fetch
 - Pull
 - Branch
-- Merge Conflict
-- meld
+- Merge Conflict: meld
+
+- merge
+
+- Checkout
+

@@ -11,4 +11,4 @@
 - Merge Conflict: meld
 - merge
 - Checkout
-- Edit from Github
+- Edit from Github + Edit from Local = rebase

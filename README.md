@@ -9,8 +9,5 @@
 - Pull
 - Branch
 - Merge Conflict: meld
-
 - merge
-
 - Checkout
-

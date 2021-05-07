@@ -11,3 +11,4 @@
 - Merge Conflict: meld
 - merge
 - Checkout
+- Edit from Github
